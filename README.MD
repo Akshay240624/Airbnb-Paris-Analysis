@@ -57,6 +57,8 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ├── README.md              # Project overview (this file)
 ```
 
+Dataset link - (https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+
 ---
 
 ## ⚙️ How to Run
