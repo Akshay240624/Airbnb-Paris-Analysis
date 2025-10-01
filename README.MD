@@ -1,4 +1,4 @@
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fcool-airbnbs-to-rent-right-now&psig=AOvVaw0onPaiDDC0WY6y8g2a2vv9&ust=1759387244609000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiPibGygpADFQAAAAAdAAAAABAE)
 
 # 🏠 Airbnb Paris Analysis
 
